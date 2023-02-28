@@ -14,7 +14,6 @@ affiliations:
  - name: Robert J Wilson. Plymouth Marine Laboratory 
    index: 1
 date: 28 Feburary 2023
-bibliography: paper.bib
 ---
 
 
